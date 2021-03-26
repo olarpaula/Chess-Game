@@ -13,9 +13,22 @@ If playing in singleplayer module, you can choose to play with white or black ag
 
 ![Screenshot](screenshots/singleplayer_menu.png)
 
-Features implemented in all modules: save game, load game, en passant, pawn promotion, castling.
+Features implemented in singleplayer and multiplayer modules: save game, load game.
+
 ![Screenshot](screenshots/pawn_promotion.png)
+
 ![Screenshot](screenshots/checkmate.png)
+
+When entering online module, wait in the lobby for other players to join and refresh the list. Send invitation to play to active players. 
+
+Features implemented in online module: draw and resign.
+
+![Screenshot](screenshots/online_lobby.png)
+
+![Screenshot](screenshots/online_game.png)
+
+
+
 
 
 
